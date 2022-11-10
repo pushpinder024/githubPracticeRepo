@@ -8,6 +8,7 @@ public class monthCheck {
         long ss = 1;
         ss++;
         System.out.println(ss);
+        System.out.println("a");
 
         switch (month) {
             case 1:
