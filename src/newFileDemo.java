@@ -1,3 +1,6 @@
 
-fguygfgwejkfmgwefiukewfwefwefwefwffwe
-rwgeqrg3rqewgerwgergeqrg
+public class newFileDemo {
+    public static void main(String[] args) {
+
+    }
+}
