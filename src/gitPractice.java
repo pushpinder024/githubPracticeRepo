@@ -15,7 +15,8 @@ public class gitPractice {
         int hh = 1;
         String nn = null;
         char  mk = 'a';
-        String abdjnd = "skdhfhsdlf";
+        char abdjnd = 'g';
+        
 
     }
 }
