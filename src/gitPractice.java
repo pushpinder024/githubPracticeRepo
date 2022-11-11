@@ -9,7 +9,7 @@ public class gitPractice {
       int x =  sc.nextInt();
 
       System.out.println("This is me, practicing github");  
-      char ss  = 'd';
+      String ss  = null;
       char mk = 'f';
 
     }
