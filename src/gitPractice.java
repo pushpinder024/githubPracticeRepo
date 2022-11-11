@@ -7,6 +7,7 @@ public class gitPractice {
 
         int i = 0;
         int j = 0;
+        String abdjnd = "skdhfhsdlf";
 
     }
 }
