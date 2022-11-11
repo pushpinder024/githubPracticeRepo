@@ -11,9 +11,10 @@ public class gitPractice {
 
         String hf = "sdlf,js";
 
-        int hf = 9;
+        int hk = 9;
         int hh = 1;
         String nn = null;
+        char  mk = 'a';
         String abdjnd = "skdhfhsdlf";
 
     }
