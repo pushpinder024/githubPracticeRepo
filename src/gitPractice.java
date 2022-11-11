@@ -9,7 +9,7 @@ public class gitPractice {
         int j = 0;
 
         int hf = 9;
-        String idkfz = null;
+        int hh = 1;
         String nn = null;
         String abdjnd = "skdhfhsdlf";
 
