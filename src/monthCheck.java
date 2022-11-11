@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 public class monthCheck {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the month number");
         int month = sc.nextInt();
         long ss = 1;
         ss++;
         System.out.println(ss);
-        System.out.println("A");
 
         switch (month) {
             case 1:
@@ -29,6 +29,8 @@ public class monthCheck {
             case 11:
                 System.out.println("THE NUMBER OF DAYS ARE 30");
                 break;
+
         }
+        System.out.println("Git practice :karan changes");
     }
 }
