@@ -16,7 +16,11 @@ main();
         String ssss = null;
 
       String ss  = null;
+
       String gggd = null;
+
+      main();
+
       char mk = 'f';
 
     }
