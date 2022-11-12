@@ -13,6 +13,8 @@ public class gitPractice {
 
         System.out.println("This is me, practicing github");
         String ssss = null;
+        
+        String nns = sss.toUppercase();
 
         String ss = null;
 
