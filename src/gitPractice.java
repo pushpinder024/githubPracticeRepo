@@ -29,6 +29,8 @@ public class gitPractice {
 
         char mk = 'f';
         String push = null;
+        System.out.println("Mohit adgvcfkmg" +
+                "");
 
     }
 }
