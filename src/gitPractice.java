@@ -12,7 +12,9 @@ public class gitPractice {
         System.out.println("This is me, practicing github");
 
         System.out.println("This is me, practicing github");
-        String ssss = null;
+        int lwef = 23;
+
+
 
         String ss = null;
 
