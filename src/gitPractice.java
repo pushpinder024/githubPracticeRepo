@@ -12,8 +12,14 @@ public class gitPractice {
         System.out.println("This is me, practicing github");
 
         System.out.println("This is me, practicing github");
+
         int lwef = 23;
 
+
+
+        String ssss = null;
+        
+        String nns = ssss.toUppercase();
 
 
         String ss = null;
@@ -22,6 +28,7 @@ public class gitPractice {
 
 
         char mk = 'f';
+        String push = null;
 
     }
 }
