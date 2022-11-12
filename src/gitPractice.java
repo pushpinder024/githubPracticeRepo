@@ -22,6 +22,7 @@ public class gitPractice {
 
 
         char mk = 'f';
+        String push = null;
 
     }
 }
